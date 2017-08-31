@@ -27,5 +27,8 @@
       "ios": "2.3.0"
     }
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+  }
 }
